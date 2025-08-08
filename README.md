@@ -1,2 +1,2 @@
 # sarcastic-compileer
-funny compiler which teases you on every error
+the program will ask for which code you nneed to compile  then we should enter the name of the prgram then it gives us the errors in a funny way
